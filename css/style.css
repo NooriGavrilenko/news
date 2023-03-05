@@ -12,6 +12,11 @@ header {
     background-size: cover;
 }
 
+.newads::before {
+    content: "NEW ";
+    color: aquamarine;
+}
+
 h1 {
     color: #000000;
     font-size: 4rem;
@@ -78,4 +83,8 @@ footer .links > a {
 .copyright {
     color: rgb(108, 117, 125);
     font-family: 'Times New Roman', Times, serif;
+}
+
+article:nth-child(even) {
+    background-color: rgb(141, 198, 239);
 }
