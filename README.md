@@ -24,4 +24,4 @@
 + Узнала о позиционировании; :white_check_mark:
 + Сделала проект визуально более привлекательным. :white_check_mark:
 - - -
-Прочитать мою новостную страницу можно [тут](https://noorigavrilenko.github.io/news/)
+Прочитать мою новостную страницу можно ![тут](https://noorigavrilenko.github.io/news/)
